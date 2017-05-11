@@ -2,16 +2,24 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
+  // border-top: 5px solid $grey-color-dark;
+  // border-bottom: 1px solid $grey-color-light;
   min-height: 56px;
+  background-color: white;
 
-  // Positioning context for the mobile navigation icon
-  position: relative;
+  // Positioning context for the mobile navigation icon (TODO) A/B Test
+
+  // option 1: FORMER Non sticky
+  // position: relative;
+
+  // option 2: NEW Changed to Sticky header for FORVM
+  position: -webkit-sticky;  // required for Safari
+  position: sticky;
+  top: 0; // required as well.
 }
 
 .site-title {
-  font-size: 26px;
+  font-size: 30px;
   font-weight: 300;
   line-height: 56px;
   letter-spacing: -1px;
@@ -93,13 +101,14 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $grey-color-light;
+  // border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
 }
 
 .footer-heading {
   font-size: 18px;
-  margin-bottom: $spacing-unit / 2;
+  margin-top: $spacing-unit / 4;
+  margin-bottom: $spacing-unit / 8;
 }
 
 .contact-list,

@@ -3,12 +3,12 @@
 ---
 @charset "utf-8";
 
-// Our variables
+// FORVM variables
 $base-font-family: "ltc-bodoni-175", Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
+$base-font-size:   18px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+$base-line-height: 1.75;
 
 $spacing-unit:     30px;
 
@@ -22,9 +22,25 @@ $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
 $content-width:    800px;
-
 $on-palm:          600px;
 $on-laptop:        800px;
+
+.site-nav {
+  display: none;
+}
+
+// Apply Flex box centering to title
+.site-header .wrapper {
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid $grey-color-light;
+}
+
+.site-footer .wrapper {
+    border-top: 1px solid $grey-color-light;
+    padding-top: 30px;
+}
+
 
 // Minima also includes a mixin for defining media queries.
 // Use media queries like this:

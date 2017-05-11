@@ -21,8 +21,9 @@ categories: ""
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: VillanovaForum
+# github_username:  jekyll
+facebook_url: https://www.facebook.com/Forum-at-Villanova-University-1478738105743186/
 
 # Build settings
 markdown: kramdown
