@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "Dear Reader"
+author: "Forum Editors"
 date:   2017-03-30 12:14:01 -0400
+category: "Introduction"
 ---
 
 Welcome to the Forum Web Archive.

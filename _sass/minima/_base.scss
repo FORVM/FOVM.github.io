@@ -8,8 +8,6 @@ dl, dd, ol, ul, figure {
   padding: 0;
 }
 
-
-
 /**
  * Basic styling
  */
@@ -35,6 +33,19 @@ p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
   margin-bottom: $spacing-unit / 2;
+}
+
+/**
+ * Body text
+ */
+.post-content p {
+  text-align: justify;
+  margin-top: 45px;
+}
+
+.footnotes p {
+  text-align: inherit;
+  margin-top: 15px;
 }
 
 
@@ -205,7 +216,13 @@ pre {
   clear: both;
 }
 
-
+/**
+ * Anchors
+ */
+ // 
+ // a {
+ //     color: black;
+ // }
 
 /**
  * Icons
@@ -217,4 +234,10 @@ pre {
   path {
     fill: $grey-color;
   }
+}
+
+
+.icon {
+  position: relative;
+  top: -2px;
 }

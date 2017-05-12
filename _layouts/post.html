@@ -9,7 +9,10 @@ layout: default
   </header>
 
   <div class="post-content" itemprop="articleBody">
-    {{ content }}
+    <!-- {{ content }} -->
+    {% assign drop_cap = content|strip_html|truncate:4|remove:'.' %}
+    {% capture drop_cap_html %}<span class="drop-cap">{{ drop_cap }}</span>{% endcapture %}
+    {{ content|replace_first:drop_cap,drop_cap_html }}
   </div>
 
   {% if site.disqus.shortname %}
