@@ -3,7 +3,7 @@ layout: post
 title:  "The Utility of Open Dialogue"
 author: "Derek Fake & Gina Arnold"
 date:   2017-05-05 12:14:01 -0400
-category: "Spring 2017"
+category: "Spring 2018"
 ---
 Over the past few years, our nation has revisited the question of what type of speech should be given a platform. The Charles Murray lecture, as well as the disinvitation of two queer activists, has ignited the question of free speech on our campus. As a Villanovan, I’ve felt the same call as my peers to reflect on this issue. I am an engineering student and a political centrist; I’m not the type to obsess over the trivialities of politics. Yet, the debate on allowable speech feels like it’s too important to ignore. I’ve found the response from both students and faculty to be concerning as it points to the larger problem of an unsuccessful (if not totally absent) dialogue between ideologically opposed groups. The political discourse on our campus is insular, but it has the potential to bridge differences, forge understanding, and build a stronger Villanova community.
 
