@@ -3,7 +3,7 @@ layout: post
 title:  "Spectacle and the Replacement of Reality"
 author: "Stephen Purcell"
 date:   2017-05-05 12:14:01 -0400
-category: "Spring 2017"
+category: "Spring 2018"
 ---
 
 On September 24, 2016, Snap, Inc. heralded its rechristening from “Snapchat” and—as if to furnish evidence of its transfigured identity—its invention of Snap Spectacles. Although these jauntily fashionable video-recording glasses seem innocuous, they unearth and exacerbate a host of the problematic promises embedded in the act of photography itself. As Susan Sontag noted 40 years ago in _On Photography_, while the photo can be an artistic medium, it can also be a temptation, luring the unwary photographer into a fraught epistemological framework that exchanges—or, rather, claims to exchange—sight for control, experience for evidence, and image for reality. What Sontag notices as the implicit promises of the camera become, in the Snap Spectacles, ad copy and even—it seems—design inspiration. What the camera hints at, the Spectacles hawk. As a result, while Sontag reveals the problematic nature of the Spectacles, the Spectacles themselves boast their ability to alienate their wearers from their experience and even themselves.
