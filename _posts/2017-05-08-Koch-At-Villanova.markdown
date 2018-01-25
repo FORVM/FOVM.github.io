@@ -3,7 +3,7 @@ layout: post
 title:  "The Koch Brothers at Villanova"
 author: "Jack Flynn & Kinjal Dave"
 date:   2017-05-05 12:14:01 -0400
-category: "Spring 2017"
+category: "Spring 2018"
 ---
 
 ## The Symptoms and the Structure by Kinjal Dave
