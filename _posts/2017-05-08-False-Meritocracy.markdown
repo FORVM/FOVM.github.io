@@ -3,7 +3,7 @@ layout: post
 title:  "The False Pretenses of Meritocracy: When Skill Ultimately Comes Down to Money"
 author: "Ana Song"
 date:   2017-05-05 12:14:01 -0400
-category: "Spring 2017"
+category: "Spring 2018"
 ---
 
 In 1958, Michael Young warned the British public about the dangers of a meritocratic society through his work, _The Rise of the Meritocracy_. The widely incorrect contemporary spin of his efforts, however, comes as a disappointment.[^1] When translated into current society’s overarching belief that ability and effort will always equal success for all people, a society controlled by “specialists” seems like a logical resolution to ending global crises such as poverty or global warming. Its principles, however, are inherently problematic, as it leverages the achievements of economically and educationally privileged individuals, purely based on “good expected results.” As a post-modern style of Social Darwinism, social inequality is subsequently distorted and euphemized as meritocratic. By stripping the identity of an individual, meritocracy fools people into thinking that everyone is being treated equally on the same playing field because only the _skills_ of an individual are highlighted and praised, without regard for gender, race, class, and so forth. Meritocracy as a utopian ideal, however, perpetuates a sense of entitlement and an embrace of elitist tendencies, further marginalizing the common people and the poor.
